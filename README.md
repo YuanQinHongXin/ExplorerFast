@@ -26,3 +26,4 @@ We would like to thank the following resources for making this project possible.
 
 - AutoHotkey official documentation 
 - StackOverflow AHK related issues
+- Microsoft 
